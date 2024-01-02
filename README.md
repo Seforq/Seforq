@@ -5,7 +5,7 @@ I very love front-end
 
 * 🌍  I'm based in Novokuznetsk
 * ✉️  You can contact me at [youninja910@gmail.com](mailto:youninja910@gmail.com)
-* 🚀  I'm currently working on [Web project](http://https://github.com/Seforq/proekt)
+* 🚀  I'm currently working on [Web project](https://github.com/Seforq/proekt)
 * 🧠  I'm learning JavaScript, HTML, CSS, SCSS
 * 🤝  I'm open to collaborating on Site project
 
