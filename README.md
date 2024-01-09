@@ -3,8 +3,10 @@ Hi 👋 My name is Seforq
 
 I very love front-end
 
+
 * 🌍  I'm based in Novokuznetsk
 * ✉️  You can contact me at [youninja910@gmail.com](mailto:youninja910@gmail.com)
+* 🖥️  See my portfolio at [СибГиу👨‍💻](http://sibgiu.vercel.app)
 * 🚀  I'm currently working on [Web my project](https://github.com/Seforq/proekt)
 * 🧠  I'm learning JavaScript, HTML, CSS, SCSS
 * 🤝  I'm open to collaborating on Site project
