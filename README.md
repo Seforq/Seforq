@@ -1,7 +1,7 @@
-Hi 👋 My name is Seforq
+Seforq
 =======================
 
-I very love front-end
+Dream full-stack
 
 
 * 🌍  I'm based in Novokuznetsk..
